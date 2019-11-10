@@ -1,2 +1,8 @@
 .sass-cache/
 *.css.map
+*.iml
+.idea/almostperfect.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.DS_Store
